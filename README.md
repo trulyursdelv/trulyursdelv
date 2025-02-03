@@ -1,9 +1,3 @@
-<h3 align="center">Delve Delos Santos Jr.</h3>
-
-<p align="center">Future full-stack software developer :man_technologist:</p>
-
-<p align="center"><a href="https://github.com/crxdelv/?tab=repositories"><img src="https://creuserr.vercel.app/badge" alt=""></a></p><br>
-
 <p align="center">
   <a href="https://dev.to/creuserr">Blogs</a>
   &nbsp; &sdot; &nbsp;
@@ -11,6 +5,8 @@
   &nbsp; &sdot; &nbsp;
   <a href="https://gist.github.com/crxdelv">Gists</a>
 </p>
+
+<p align="center"><a href="https://github.com/crxdelv/?tab=repositories"><img src="https://creuserr.vercel.app/badge" alt=""></a></p>
 
 <p align="center"><a href="https://github.com/crxdelv">
   <picture>
@@ -23,36 +19,6 @@
   </picture>
 </a></p>
 
-<p align="center"><a href="https://github.com/crxdelv"><img src="https://skillicons.dev/icons?i=nodejs,py,java,php,bash,regex,html,css,js,lua,c,mysql&perline=6"></a></p>
+<p align="center"><a href="https://github.com/crxdelv"><img src="https://skillicons.dev/icons?i=nodejs,py,java,php,swift,lua"></a></p>
 
-### :beginner: Currently Learning:
-
-**Concepts:**
-- :blue_book: Machine learnings
-- :orange_book: Data science
-- :green_book: Cybersecurity
-
-**Languages:**
-
-<a href="https://github.com/crxdelv"><img src="https://skillicons.dev/icons?i=kotlin,swift,rust,go,react,graphql" alt=""></a>
-
-### :beginner: Currently Using
-
-| CI/CD :floppy_disk: | Backend :fire: |
-|:--------------:|:--------:|
-| GitHub, Vercel | Firebase |
-
-### :beginner: Currently Doing
-**Serverless applications:**
-
-- Web crawlers/scrapers :spider:
-- REST APIs :fax:
-- Cron-based automations :robot:
-
-**Web applications:**
-
-- Library previews :books:
-- FOSS websites :fallen_leaf:
-
-<br>
 <p align="center"><a href="https://github.com/crxdelv"><img src="https://komarev.com/ghpvc/?username=creuserr&style=for-the-badge" alt=""></a></p>
