@@ -19,6 +19,6 @@
   </picture>
 </a></p>
 
-<p align="center"><a href="https://github.com/crxdelv"><img src="https://skillicons.dev/icons?i=nodejs,py,java,php,swift,lua"></a></p>
+<p align="center"><a href="https://github.com/crxdelv"><img src="https://skillicons.dev/icons?i=nodejs,py,java,php,swift,cpp"></a></p>
 
 <p align="center"><a href="https://github.com/crxdelv"><img src="https://komarev.com/ghpvc/?username=creuserr&style=for-the-badge" alt=""></a></p>
