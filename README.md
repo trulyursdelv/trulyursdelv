@@ -6,7 +6,9 @@
   <a href="https://gist.github.com/crxdelv">Gists</a>
 </p>
 
+<!--
 <p align="center"><a href="https://github.com/crxdelv/?tab=repositories"><img src="https://creuserr.vercel.app/badge" alt=""></a></p>
+-->
 
 <p align="center"><a href="https://github.com/crxdelv">
   <picture>
