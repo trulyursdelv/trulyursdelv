@@ -10,17 +10,17 @@
 <p align="center"><a href="https://github.com/crxdelv/?tab=repositories"><img src="https://creuserr.vercel.app/badge" alt=""></a></p>
 -->
 
-<p align="center"><a href="https://github.com/crxdelv">
+<p align="center"><a href="https://github.com/dxvnotfound">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=crxdelv&show_icons=true&theme=github_dark&hide_border=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dxvnotfound &show_icons=true&theme=github_dark&hide_border=true">
     <img alt="" width="400" src="https://github-readme-stats.vercel.app/api?username=dxvnotfound &show_icons=true&theme=light&border=lightgray">
   </picture> <br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=dxvnotfound&theme=github-dark-blue&hide_border=true">
-    <img alt="" width="400" src="https://streak-stats.demolab.com/?user=crxdelv&theme=meta-light&border=lightgray&stroke=lightgray">
+    <img alt="" width="400" src="https://streak-stats.demolab.com/?user=dxvnotfound &theme=meta-light&border=lightgray&stroke=lightgray">
   </picture>
 </a></p>
 
-<p align="center"><a href="https://github.com/crxdelv"><img src="https://skillicons.dev/icons?i=nodejs,py,java,php,swift,cpp"></a></p>
+<p align="center"><a href="https://github.com/dxvnotfound"><img src="https://skillicons.dev/icons?i=nodejs,py,java,php,swift,cpp"></a></p>
 
-<p align="center"><a href="https://github.com/crxdelv"><img src="https://komarev.com/ghpvc/?username=creuserr&style=for-the-badge" alt=""></a></p>
+<p align="center"><a href="https://github.com/dxvnotfound"><img src="https://komarev.com/ghpvc/?username=creuserr&style=for-the-badge" alt=""></a></p>
