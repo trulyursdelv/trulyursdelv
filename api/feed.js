@@ -35,7 +35,7 @@ const git = {
     repo.unshift({
       link: "https://github.com/trulyursdelv",
       title: "@trulyursdelv",
-      desc: "inactive | programming stuffs xoxo",
+      desc: "inactive | programming stuff xoxo",
       img: "https://avatars.githubusercontent.com/u/151720755?v=4"
     });
     return repo;
