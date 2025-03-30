@@ -23,4 +23,4 @@
 
 <p align="center"><a href="https://github.com/trulyursdelv?tab=repositories"><img src="https://skillicons.dev/icons?i=nodejs,py,java,php,swift,cpp"></a></p>
 
-<p align="center"><a href="https://gh-profile-viewer.vercel.app/trulyursdelv"><img src="https://komarev.com/ghpvc/?username=creuserr&style=for-the-badge" alt=""></a></p>
+<p align="center"><a href="https://github.com/trulyursdelv?tab=followers"><img src="https://komarev.com/ghpvc/?username=creuserr&style=for-the-badge" alt=""></a></p>
