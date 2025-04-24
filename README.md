@@ -21,6 +21,6 @@
   </picture>
 </a></p>
 
-<p align="center"><a href="https://github.com/trulyursdelv?tab=repositories"><img src="https://skillicons.dev/icons?i=nodejs,py,java,php,ruby,rust"></a></p>
+<p align="center"><a href="https://github.com/trulyursdelv?tab=repositories"><img src="https://skillicons.dev/icons?i=nodejs,py,java,php,swift,cpp,ruby,rust,go&perline=6"></a></p>
 
 <p align="center"><a href="https://github.com/trulyursdelv?tab=followers"><img src="https://komarev.com/ghpvc/?username=creuserr&style=for-the-badge" alt=""></a></p>
