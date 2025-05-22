@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://dev.to/creuserr">Blogs</a>
+  <a href="https://dev.to/trulyursdelv">Blogs</a>
   &nbsp; &sdot; &nbsp;
   <a href="https://creuserr.vercel.app/feed">RSS Feed</a>
   &nbsp; &sdot; &nbsp;
