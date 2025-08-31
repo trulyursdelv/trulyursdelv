@@ -1,3 +1,4 @@
+<!--
 <p align="center">
   <a href="https://dev.to/trulyursdelv">Blogs</a>
   &nbsp; &sdot; &nbsp;
@@ -5,11 +6,14 @@
   &nbsp; &sdot; &nbsp;
   <a href="https://gist.github.com/trulyursdelv">Gists</a>
 </p>
+-->
 
+<!-- KEEP AS COMMENT -->
 <!--
 <p align="center"><a href="https://github.com/crxdelv/?tab=repositories"><img src="https://creuserr.vercel.app/badge" alt=""></a></p>
 -->
 
+<!--
 <p align="center"><a href="https://octoprofile.vercel.app/user?id=trulyursdelv">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=trulyursdelv&show_icons=true&theme=github_dark&hide_border=true">
@@ -24,3 +28,6 @@
 <p align="center"><a href="https://github.com/trulyursdelv?tab=repositories"><img src="https://skillicons.dev/icons?i=nodejs,py,java,php,swift,cpp,lua,ruby,rust,go&perline=5"></a></p>
 
 <p align="center"><a href="https://github.com/trulyursdelv?tab=followers"><img src="https://komarev.com/ghpvc/?username=creuserr&style=for-the-badge" alt=""></a></p>
+-->
+
+<p align="center">...</p>
